@@ -85,8 +85,8 @@ bash cleanup.sh
 <p><b>Version: 1.4:</b> Ngrok authtoken update</p>
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
-###🔗 Important Notice
+🔗### Important Notice
 Unauthorized reuploading of this project is prohibited.
 
-####🔗 For More Content join Telegram Channel <a href="https://t.me/ABDFCKF">Social_h@ckerz</a>
+🔗#### For More Content join Telegram Channel <a href="https://t.me/ABDFCKF">Social_h@ckerz</a>
 <p>Camera-hack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
